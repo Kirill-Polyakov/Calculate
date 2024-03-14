@@ -14,7 +14,7 @@ public class Main {
 
         do {
             if (calculatorOperator == 'c') {
-                System.out.println("Здравствуйте");
+                System.out.println("Hello");
                 System.out.print("Введите первый операнд:  ");
                 val1 = scanner.nextDouble();
                 System.out.print("Введите оператор:  ");
